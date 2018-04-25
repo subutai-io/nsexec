@@ -1,8 +1,9 @@
-nsexec (1.22+nmu1) UNRELEASED; urgency=medium
+nsexec (1.22+nmu3) UNRELEASED; urgency=medium
 
   * Non-maintainer upload.
+  * Moved repository to https://github.com/subutai-io/nsexec
 
- -- Lars Boegild Thomsen <lbthomsen@optimal-dynamics.com>  Tue, 03 Apr 2018 22:02:13 +0800
+ -- Lars Boegild Thomsen <lbthomsen@optical-dynamics.com>  Fri, 20 Apr 2018 22:03:51 +0800
 
 nsexec (1.22) saucy; urgency=low
 
