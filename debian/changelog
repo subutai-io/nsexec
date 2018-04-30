@@ -1,4 +1,4 @@
-nsexec (1.22+dev.1) unstable; urgency=medium
+nsexec (1.22+master.1) testing; urgency=medium
 
   * Non-maintainer upload.
   * Moved repository to https://github.com/subutai-io/nsexec
